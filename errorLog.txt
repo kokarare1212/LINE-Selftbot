@@ -1,0 +1,67 @@
+
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendMention'
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] 'int' object is not callable
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'mentionMembers'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'mentionMembers'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] '<' not supported between instances of 'str' and 'int'
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] sendMention() missing 1 required positional argument: 'lastmessage'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'Invitegroupcall'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'data'
+[<module 'time' (built-in)>] 'data'
+[<module 'time' (built-in)>] 'data'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='dl.profile.line.naver.jp', port=443): Max retries exceeded with url: /r/talk/p/u3f183a8e2b22e880b53f8ae8bffeccf2?r=1564820318 (Caused by SSLError(SSLCertVerificationError("hostname 'dl.profile.line.naver.jp' doesn't match either of 'a248.e.akamai.net', '*.akamaized-staging.net', '*.akamaized.net', '*.akamaihd-staging.net', '*.akamaihd.net'")))
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='dl.profile.line.naver.jp', port=443): Max retries exceeded with url: /r/talk/p/u7af256013c2a51a00e075adb5e141358?r=1570339972 (Caused by SSLError(SSLCertVerificationError("hostname 'dl.profile.line.naver.jp' doesn't match either of 'a248.e.akamai.net', '*.akamaized-staging.net', '*.akamaized.net', '*.akamaihd-staging.net', '*.akamaihd.net'")))
+[<module 'time' (built-in)>] TalkException(code=82, reason='types mismatch', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=82, reason='types mismatch', parameterMap={})
+[<module 'time' (built-in)>] HTTPSConnectionPool(host='dl.profile.line.naver.jp', port=443): Max retries exceeded with url: /r/talk/p/u3f183a8e2b22e880b53f8ae8bffeccf2?r=1564820318 (Caused by SSLError(SSLCertVerificationError("hostname 'dl.profile.line.naver.jp' doesn't match either of 'a248.e.akamai.net', '*.akamaized-staging.net', '*.akamaized.net', '*.akamaihd-staging.net', '*.akamaihd.net'")))
